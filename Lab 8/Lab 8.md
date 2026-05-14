@@ -1,4 +1,4 @@
-## Lab 9 – Building rapid Full-Stack application prototyping with GitHub Copilot
+# Lab 08: Building a rapid Full-Stack application prototyping with GitHub Copilot
 
 ### Scenario 
 
