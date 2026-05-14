@@ -1,4 +1,4 @@
-# Lab 10 : Debugging and fixing a buggy Node.js REST API with GitHub Copilot
+# Lab 09: Debugging and fixing a buggy Node.js REST API with GitHub Copilot
 
 ### Scenario 
 
