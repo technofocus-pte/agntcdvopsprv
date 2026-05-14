@@ -1,4 +1,4 @@
-## **Lab 04: Building and Managing a Website with GitHub Pages and DevOps Practices**
+# Lab 04: Building and Managing a Website with GitHub Pages and DevOps Practices
 
 Zava, a growing digital solutions company, wants to establish an online
 presence to showcase its projects, share updates, and publish technical
