@@ -1,4 +1,4 @@
-# **Lab 03: Build, Automate & Deploy a Task Manager App using GitHub + Copilot**
+# Lab 03: Build, Automate & Deploy a Task Manager App using GitHub + Copilot
 
 Zava, a fast-growing digital health company, is planning to launch a
 lightweight Task Manager application to streamline internal team
