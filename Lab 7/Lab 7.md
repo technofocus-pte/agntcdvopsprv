@@ -1,4 +1,4 @@
-# Lab 8- Improving code quality and maintainability with GitHub Copilot
+# Lab 07- Improving code quality and maintainability with GitHub Copilot
 
 ### Scenario 
 
