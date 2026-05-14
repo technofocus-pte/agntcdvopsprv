@@ -1,4 +1,4 @@
-# **Lab 3: Automate Docker Image Publishing with GitHub Actions**
+# **Lab 02: Automate Docker Image Publishing with GitHub Actions**
 
 You and your team have been working hard on an awesome web-based game
 called **Stackoverflown**. It's a hit, and now you want to **package and
